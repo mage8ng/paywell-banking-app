@@ -1,0 +1,1 @@
+{"scripts": {"dev": "node index.js", "test": "jest", "docker": "docker-compose up", "lint": "eslint ."}}
