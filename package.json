@@ -1,1 +1,2 @@
-{"scripts": {"dev": "node index.js", "test": "jest", "docker": "docker-compose up", "lint": "eslint ."}}
+{"name":"paywell-banking-app","version":"1.0.0","main":"index.js","scripts":{"start":"node src/index.js"},"dependencies":{"express":"^4.17.1"}},
+"description": "PayWell Banking App"
